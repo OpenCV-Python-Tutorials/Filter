@@ -1,4 +1,4 @@
 Filter
 ======
 
-This is a simple application using filters which gives you a range of filters to be applied and varying the thresholds to see the changes in the output.
+This is a simple application of filters with a range of filters that can be applied and the thresholds can be adjusted.
